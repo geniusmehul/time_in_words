@@ -1,4 +1,6 @@
 # time_in_words
+Problem from HackerRank https://www.hackerrank.com/challenges/the-time-in-words/problem
+
 Given the time in numerals we may convert it into words.<br>
         5:00 -> five o' clock<br>
         5:01 -> one miniute past five<br>
@@ -22,7 +24,7 @@ timeInWords has the following parameter(s):
 The first line contains _h_,  the hours portion The second line contains _m_, the minutes portion
 
 ## Constraints
-1 <= h <= 12
+1 <= h <= 12<br>
 0 <= m < 60
 
 ## Output Format
